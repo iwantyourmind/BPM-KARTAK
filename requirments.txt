@@ -1,0 +1,6 @@
+# alright so your gonna need to 
+
+pip install librosa
+
+# and 3.14-3.12 python because some of the dependencies of librosa lag behind im not sure why it runs faster on other 
+# versions but yk
